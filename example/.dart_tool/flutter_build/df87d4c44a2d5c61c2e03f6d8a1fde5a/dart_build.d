@@ -1,0 +1,1 @@
+ /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/.dart_tool/flutter_build/df87d4c44a2d5c61c2e03f6d8a1fde5a/dart_build_result.json: 

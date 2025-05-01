@@ -1,0 +1,243 @@
+{
+  "elements": {
+    "events": {
+      "id": {
+        "library_uri": "package:example/tables.drift",
+        "name": "events"
+      },
+      "declaration": {
+        "source_uri": "package:example/tables.drift",
+        "offset": 0,
+        "name": "events"
+      },
+      "references": [],
+      "type": "table",
+      "columns": [
+        {
+          "sqlType": {
+            "builtin": "string"
+          },
+          "nullable": false,
+          "nameInSql": "id",
+          "nameInDart": "id",
+          "declaration": {
+            "source_uri": "package:example/tables.drift",
+            "offset": 26,
+            "name": null
+          },
+          "typeConverter": null,
+          "clientDefaultCode": null,
+          "defaultArgument": null,
+          "overriddenJsonName": null,
+          "referenceName": null,
+          "documentationComment": null,
+          "constraints": [
+            {
+              "type": "primary",
+              "is_auto_increment": false
+            }
+          ],
+          "customConstraints": "NOT NULL PRIMARY KEY"
+        },
+        {
+          "sqlType": {
+            "builtin": "string"
+          },
+          "nullable": false,
+          "nameInSql": "entity_id",
+          "nameInDart": "entityId",
+          "declaration": {
+            "source_uri": "package:example/tables.drift",
+            "offset": 60,
+            "name": null
+          },
+          "typeConverter": null,
+          "clientDefaultCode": null,
+          "defaultArgument": null,
+          "overriddenJsonName": null,
+          "referenceName": null,
+          "documentationComment": null,
+          "constraints": [],
+          "customConstraints": "NOT NULL"
+        },
+        {
+          "sqlType": {
+            "builtin": "string"
+          },
+          "nullable": false,
+          "nameInSql": "attribute",
+          "nameInDart": "attribute",
+          "declaration": {
+            "source_uri": "package:example/tables.drift",
+            "offset": 160,
+            "name": null
+          },
+          "typeConverter": null,
+          "clientDefaultCode": null,
+          "defaultArgument": null,
+          "overriddenJsonName": null,
+          "referenceName": null,
+          "documentationComment": "/// doesn't always reference an existing node, so references is omitted",
+          "constraints": [],
+          "customConstraints": "NOT NULL"
+        },
+        {
+          "sqlType": {
+            "builtin": "string"
+          },
+          "nullable": false,
+          "nameInSql": "value",
+          "nameInDart": "value",
+          "declaration": {
+            "source_uri": "package:example/tables.drift",
+            "offset": 189,
+            "name": null
+          },
+          "typeConverter": null,
+          "clientDefaultCode": null,
+          "defaultArgument": null,
+          "overriddenJsonName": null,
+          "referenceName": null,
+          "documentationComment": null,
+          "constraints": [],
+          "customConstraints": "NOT NULL"
+        },
+        {
+          "sqlType": {
+            "builtin": "string"
+          },
+          "nullable": false,
+          "nameInSql": "timestamp",
+          "nameInDart": "timestamp",
+          "declaration": {
+            "source_uri": "package:example/tables.drift",
+            "offset": 214,
+            "name": null
+          },
+          "typeConverter": null,
+          "clientDefaultCode": null,
+          "defaultArgument": null,
+          "overriddenJsonName": null,
+          "referenceName": null,
+          "documentationComment": null,
+          "constraints": [],
+          "customConstraints": "NOT NULL"
+        }
+      ],
+      "existing_data_class": null,
+      "table_constraints": [],
+      "custom_parent_class": null,
+      "interfaces_for_row_class": [],
+      "fixed_entity_info_name": "Events",
+      "base_dart_name": "Events",
+      "row_class_name": "Event",
+      "companion_class_name": null,
+      "without_rowid": false,
+      "strict": false,
+      "write_default_constraints": false,
+      "custom_constraints": [],
+      "attached_indices": []
+    },
+    "getEvents": {
+      "id": {
+        "library_uri": "package:example/tables.drift",
+        "name": "getEvents"
+      },
+      "declaration": {
+        "source_uri": "package:example/tables.drift",
+        "offset": 313,
+        "name": null
+      },
+      "references": [
+        {
+          "library_uri": "package:example/tables.drift",
+          "name": "events"
+        }
+      ],
+      "type": "query",
+      "sql": "SELECT * FROM events",
+      "offset": 313,
+      "result_class": null,
+      "existing_type": null,
+      "mode": "regular",
+      "dart_tokens": [],
+      "dart_types": {}
+    },
+    "insertEvent": {
+      "id": {
+        "library_uri": "package:example/tables.drift",
+        "name": "insertEvent"
+      },
+      "declaration": {
+        "source_uri": "package:example/tables.drift",
+        "offset": 349,
+        "name": null
+      },
+      "references": [
+        {
+          "library_uri": "package:example/tables.drift",
+          "name": "events"
+        }
+      ],
+      "type": "query",
+      "sql": "INSERT INTO events (\n    id,\n    entity_id,\n    attribute,\n    value,\n    timestamp\n)\nVALUES (\n    :id,\n    :entity_id,\n    :attribute,\n    :value,\n    :timestamp\n)",
+      "offset": 349,
+      "result_class": null,
+      "existing_type": null,
+      "mode": "regular",
+      "dart_tokens": [],
+      "dart_types": {}
+    },
+    "getEventByEntityId": {
+      "id": {
+        "library_uri": "package:example/tables.drift",
+        "name": "getEventByEntityId"
+      },
+      "declaration": {
+        "source_uri": "package:example/tables.drift",
+        "offset": 567,
+        "name": null
+      },
+      "references": [
+        {
+          "library_uri": "package:example/tables.drift",
+          "name": "events"
+        }
+      ],
+      "type": "query",
+      "sql": "SELECT * FROM events WHERE entity_id = :entity_id",
+      "offset": 567,
+      "result_class": null,
+      "existing_type": null,
+      "mode": "regular",
+      "dart_tokens": [],
+      "dart_types": {}
+    },
+    "resetDatabase": {
+      "id": {
+        "library_uri": "package:example/tables.drift",
+        "name": "resetDatabase"
+      },
+      "declaration": {
+        "source_uri": "package:example/tables.drift",
+        "offset": 634,
+        "name": null
+      },
+      "references": [
+        {
+          "library_uri": "package:example/tables.drift",
+          "name": "events"
+        }
+      ],
+      "type": "query",
+      "sql": "DELETE FROM events",
+      "offset": 634,
+      "result_class": null,
+      "existing_type": null,
+      "mode": "regular",
+      "dart_tokens": [],
+      "dart_types": {}
+    }
+  },
+  "imports": []
+}

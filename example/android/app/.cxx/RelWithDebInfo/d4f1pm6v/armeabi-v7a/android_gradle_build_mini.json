@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/vania/data/dev/installs/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/vania/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/.cxx/RelWithDebInfo/d4f1pm6v/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/vania/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/.cxx/RelWithDebInfo/d4f1pm6v/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

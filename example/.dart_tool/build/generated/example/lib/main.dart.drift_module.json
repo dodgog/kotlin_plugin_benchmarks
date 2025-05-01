@@ -1,0 +1,8 @@
+{
+  "elements": {},
+  "imports": [
+    "package:flutter/material.dart",
+    "package:uuid/uuid.dart",
+    "package:example/database.dart"
+  ]
+}

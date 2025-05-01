@@ -1,0 +1,31 @@
+{
+  "elements": {
+    "AppDatabase": {
+      "id": {
+        "library_uri": "package:example/database.dart",
+        "name": "AppDatabase"
+      },
+      "declaration": {
+        "source_uri": "package:example/database.dart",
+        "offset": 219,
+        "name": "AppDatabase"
+      },
+      "references": [],
+      "type": "database",
+      "tables": [],
+      "views": [],
+      "includes": [
+        "tables.drift"
+      ],
+      "queries": [],
+      "schema_version": 1,
+      "daos": [],
+      "has_constructor_arg": true
+    }
+  },
+  "imports": [
+    "package:drift/drift.dart",
+    "package:drift/native.dart",
+    "package:drift_flutter/drift_flutter.dart"
+  ]
+}

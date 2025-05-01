@@ -1,0 +1,1 @@
+{"valid_import":true,"imports":[],"elements":[{"kind":"table","name":"events"},{"kind":"definedQuery","name":"getEvents"},{"kind":"definedQuery","name":"insertEvent"},{"kind":"definedQuery","name":"getEventByEntityId"},{"kind":"definedQuery","name":"resetDatabase"}]}

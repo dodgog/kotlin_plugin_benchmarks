@@ -1,0 +1,296 @@
+FINE 2025-04-30 14:40:35.891464: Set log level: ALL
+INFO 2025-04-30 14:40:35.899260: Building ApiSummarizer component. This might take some time. The build will be cached for subsequent runs.
+FINE 2025-04-30 14:40:36.597421: Set log level: ALL
+INFO 2025-04-30 14:40:36.598155: trying to obtain gradle dependencies [getReleaseCompileClasspath]...
+FINER 2025-04-30 14:40:36.599544: Writing temporary gradle script with stub "getReleaseCompileClasspath"...
+FINER 2025-04-30 14:40:36.600996: Running gradle wrapper...
+INFO 2025-04-30 14:40:44.128848: Restoring build scripts
+==== Begin Gradle logs (getReleaseCompileClasspath) ====
+
+==== End Gradle logs (getReleaseCompileClasspath) ====
+==== Begin Gradle output (getReleaseCompileClasspath) ====
+/Users/vania/Library/Android/sdk/platforms/android-35/android.jar
+/Users/vania/Library/Android/sdk/platforms/android-35/android.jar
+/Users/vania/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/processReleaseResources/R.jar
+/Users/vania/.gradle/caches/transforms-4/362b0de0922a7226314f334fda2f75d7/transformed/jetified-libs.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar
+/Users/vania/.gradle/caches/transforms-4/9c720be45ac4fad4bd549a3e75497f13/transformed/jetified-kotlin-stdlib-jdk7-1.8.20.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/path_provider_android/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar
+/Users/vania/.gradle/caches/transforms-4/ac3aaa1b571da18e97ebea98cdacaa11/transformed/jetified-flutter_embedding_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar
+/Users/vania/.gradle/caches/transforms-4/fa589f1a8ae2078f05f2181dd63c4b75/transformed/fragment-1.7.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/09aae307dac91572244904ae4f1b11d4/transformed/jetified-activity-1.8.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/760019e5f29b3092618e01a30da7f234/transformed/loader-1.0.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/813264c2782deb98a9f68858eabbb0f1/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/5debf20e4f2371714d611b7c94f3fc11/transformed/lifecycle-livedata-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/b290a5e41492404b59e46098da1677ce/transformed/lifecycle-viewmodel-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/05795f94f7f15f371e9e1492484d52f0/transformed/lifecycle-livedata-core-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/d0e6a21f3ebee915c6683533c6485efa/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/ea49ccca30d31a454fcddf99fe6a2cf6/transformed/jetified-core-ktx-1.13.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/25e6032ff34cb11fc467cb6f8d71431e/transformed/viewpager-1.0.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/5db6df6c7c685ef1389508837cda71a8/transformed/customview-1.0.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/eccfe57155ffca70c2a5dfec18e0b9fb/transformed/core-1.13.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/81c363dd8a1c3d427feb5331a9a2a3e6/transformed/lifecycle-runtime-2.7.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/9da9c2cee8b36bdb3af96a662b0f4987/transformed/jetified-lifecycle-process-2.7.0-api.jar
+/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.7.0/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.7.0.jar
+/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.7.0/85334205d65cca70ed0109c3acbd29e22a2d9cb1/lifecycle-common-2.7.0.jar
+/Users/vania/.gradle/caches/transforms-4/21f5b7abf8a2ed0ba3480ad44c08d59b/transformed/jetified-window-1.2.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/d1926c6612ac1a0cf1cfb0cb48984b29/transformed/jetified-window-java-1.2.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/eb2459969f1c5214eda4166c9ba39144/transformed/jetified-runtime-jvm-2.0.2.jar
+/Users/vania/.gradle/caches/transforms-4/d312a82b9f869b2f20a2485daf66f33f/transformed/jetified-annotation-experimental-1.4.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/30e4881e73c8e82c20ff377217ab2e6e/transformed/jetified-savedstate-1.2.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/e04da28ee9525fb2d61cb3be19b5bcf4/transformed/core-runtime-2.2.0-api.jar
+/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar
+/Users/vania/.gradle/caches/transforms-4/971dd992546b25eadf1cf0ceab897aa1/transformed/versionedparcelable-1.1.1-api.jar
+/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar
+/Users/vania/.gradle/caches/transforms-4/80a1464ac33af86f3de8169e701903eb/transformed/jetified-annotation-jvm-1.9.1.jar
+/Users/vania/.gradle/caches/transforms-4/b68e2361926bf1d0ea45ff998d62abfa/transformed/jetified-kotlinx-coroutines-android-1.7.1.jar
+/Users/vania/.gradle/caches/transforms-4/3873d16957a4e8460c4972016cce35e0/transformed/jetified-kotlinx-coroutines-core-jvm-1.7.1.jar
+/Users/vania/.gradle/caches/transforms-4/f3f15ec30745f049177e5ed679bcd12c/transformed/jetified-kotlin-stdlib-1.9.24.jar
+/Users/vania/.gradle/caches/transforms-4/935038a00491e02165295162ef0cedc4/transformed/jetified-kotlin-stdlib-jdk8-1.8.20.jar
+/Users/vania/.gradle/caches/transforms-4/bec48b03d6244afe59c39e4f6f8a8a3c/transformed/jetified-armeabi_v7a_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar
+/Users/vania/.gradle/caches/transforms-4/33bcf831eefb7eeb70e9520ab9b500b6/transformed/jetified-arm64_v8a_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar
+/Users/vania/.gradle/caches/transforms-4/350d46f932eb535dbce2a495bf6ad3b4/transformed/jetified-x86_64_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar
+/Users/vania/.gradle/caches/transforms-4/10534ddf0d09f8bed9029ad75265b60f/transformed/jetified-annotations-23.0.0.jar
+/Users/vania/.gradle/caches/transforms-4/a7d5e99109e59ed65888f2aa13e87349/transformed/jetified-startup-runtime-1.1.1-api.jar
+/Users/vania/.gradle/caches/transforms-4/63d711b49fd17c3408d4357b00d426ce/transformed/jetified-tracing-1.2.0-api.jar
+/Users/vania/.gradle/caches/transforms-4/46e4530bc89b7cf4ba0996d913d00648/transformed/jetified-relinker-1.4.5-api.jar
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/tmp/kotlin-classes/release
+
+==== End Gradle output (getReleaseCompileClasspath) ====
+FINE 2025-04-30 14:40:44.134231: Found 49 entries
+INFO 2025-04-30 14:40:44.138388: execute java -jar .dart_tool/jnigen/ApiSummarizer.jar -c "/Users/vania/Library/Android/sdk/platforms/android-35/android.jar:/Users/vania/Library/Android/sdk/platforms/android-35/android.jar:/Users/vania/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/processReleaseResources/R.jar:/Users/vania/.gradle/caches/transforms-4/362b0de0922a7226314f334fda2f75d7/transformed/jetified-libs.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar:/Users/vania/.gradle/caches/transforms-4/9c720be45ac4fad4bd549a3e75497f13/transformed/jetified-kotlin-stdlib-jdk7-1.8.20.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/path_provider_android/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/compile_library_classes_jar/release/bundleLibCompileToJarRelease/classes.jar:/Users/vania/.gradle/caches/transforms-4/ac3aaa1b571da18e97ebea98cdacaa11/transformed/jetified-flutter_embedding_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar:/Users/vania/.gradle/caches/transforms-4/fa589f1a8ae2078f05f2181dd63c4b75/transformed/fragment-1.7.1-api.jar:/Users/vania/.gradle/caches/transforms-4/09aae307dac91572244904ae4f1b11d4/transformed/jetified-activity-1.8.1-api.jar:/Users/vania/.gradle/caches/transforms-4/760019e5f29b3092618e01a30da7f234/transformed/loader-1.0.0-api.jar:/Users/vania/.gradle/caches/transforms-4/813264c2782deb98a9f68858eabbb0f1/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/5debf20e4f2371714d611b7c94f3fc11/transformed/lifecycle-livedata-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/b290a5e41492404b59e46098da1677ce/transformed/lifecycle-viewmodel-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/05795f94f7f15f371e9e1492484d52f0/transformed/lifecycle-livedata-core-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/d0e6a21f3ebee915c6683533c6485efa/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/ea49ccca30d31a454fcddf99fe6a2cf6/transformed/jetified-core-ktx-1.13.1-api.jar:/Users/vania/.gradle/caches/transforms-4/25e6032ff34cb11fc467cb6f8d71431e/transformed/viewpager-1.0.0-api.jar:/Users/vania/.gradle/caches/transforms-4/5db6df6c7c685ef1389508837cda71a8/transformed/customview-1.0.0-api.jar:/Users/vania/.gradle/caches/transforms-4/eccfe57155ffca70c2a5dfec18e0b9fb/transformed/core-1.13.1-api.jar:/Users/vania/.gradle/caches/transforms-4/81c363dd8a1c3d427feb5331a9a2a3e6/transformed/lifecycle-runtime-2.7.0-api.jar:/Users/vania/.gradle/caches/transforms-4/9da9c2cee8b36bdb3af96a662b0f4987/transformed/jetified-lifecycle-process-2.7.0-api.jar:/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.7.0/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.7.0.jar:/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.7.0/85334205d65cca70ed0109c3acbd29e22a2d9cb1/lifecycle-common-2.7.0.jar:/Users/vania/.gradle/caches/transforms-4/21f5b7abf8a2ed0ba3480ad44c08d59b/transformed/jetified-window-1.2.0-api.jar:/Users/vania/.gradle/caches/transforms-4/d1926c6612ac1a0cf1cfb0cb48984b29/transformed/jetified-window-java-1.2.0-api.jar:/Users/vania/.gradle/caches/transforms-4/eb2459969f1c5214eda4166c9ba39144/transformed/jetified-runtime-jvm-2.0.2.jar:/Users/vania/.gradle/caches/transforms-4/d312a82b9f869b2f20a2485daf66f33f/transformed/jetified-annotation-experimental-1.4.0-api.jar:/Users/vania/.gradle/caches/transforms-4/30e4881e73c8e82c20ff377217ab2e6e/transformed/jetified-savedstate-1.2.1-api.jar:/Users/vania/.gradle/caches/transforms-4/e04da28ee9525fb2d61cb3be19b5bcf4/transformed/core-runtime-2.2.0-api.jar:/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar:/Users/vania/.gradle/caches/transforms-4/971dd992546b25eadf1cf0ceab897aa1/transformed/versionedparcelable-1.1.1-api.jar:/Users/vania/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/vania/.gradle/caches/transforms-4/80a1464ac33af86f3de8169e701903eb/transformed/jetified-annotation-jvm-1.9.1.jar:/Users/vania/.gradle/caches/transforms-4/b68e2361926bf1d0ea45ff998d62abfa/transformed/jetified-kotlinx-coroutines-android-1.7.1.jar:/Users/vania/.gradle/caches/transforms-4/3873d16957a4e8460c4972016cce35e0/transformed/jetified-kotlinx-coroutines-core-jvm-1.7.1.jar:/Users/vania/.gradle/caches/transforms-4/f3f15ec30745f049177e5ed679bcd12c/transformed/jetified-kotlin-stdlib-1.9.24.jar:/Users/vania/.gradle/caches/transforms-4/935038a00491e02165295162ef0cedc4/transformed/jetified-kotlin-stdlib-jdk8-1.8.20.jar:/Users/vania/.gradle/caches/transforms-4/bec48b03d6244afe59c39e4f6f8a8a3c/transformed/jetified-armeabi_v7a_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar:/Users/vania/.gradle/caches/transforms-4/33bcf831eefb7eeb70e9520ab9b500b6/transformed/jetified-arm64_v8a_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar:/Users/vania/.gradle/caches/transforms-4/350d46f932eb535dbce2a495bf6ad3b4/transformed/jetified-x86_64_release-1.0.0-f73bfc4522dd0bc87bbcdb4bb3088082755c5e87.jar:/Users/vania/.gradle/caches/transforms-4/10534ddf0d09f8bed9029ad75265b60f/transformed/jetified-annotations-23.0.0.jar:/Users/vania/.gradle/caches/transforms-4/a7d5e99109e59ed65888f2aa13e87349/transformed/jetified-startup-runtime-1.1.1-api.jar:/Users/vania/.gradle/caches/transforms-4/63d711b49fd17c3408d4357b00d426ce/transformed/jetified-tracing-1.2.0-api.jar:/Users/vania/.gradle/caches/transforms-4/46e4530bc89b7cf4ba0996d913d00648/transformed/jetified-relinker-1.4.5-api.jar:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/tmp/kotlin-classes/release" --backend asm Example Document com.example.database.DatabaseJniHelper com.example.database.Database com.exampledatabase.EventsQueries com.exampledatabase.Events app.cash.sqldelight.Query app.cash.sqldelight.TransacterImpl app.cash.sqldelight.db.QueryResult app.cash.sqldelight.db.SqlCursor app.cash.sqldelight.db.SqlDriver
+INFO 2025-04-30 14:40:44.522881: Parsing inputs took 386 ms
+==== Begin summarizer logs ====
+Picked up JAVA_TOOL_OPTIONS: -Dfile.encoding=UTF8
+Apr 30, 2025 2:40:44 PM com.github.dart_lang.jnigen.apisummarizer.util.Log log
+INFO: Writing JSON for 20 classes
+Apr 30, 2025 2:40:44 PM com.github.dart_lang.jnigen.apisummarizer.util.Log log
+INFO: Finished
+
+==== End summarizer logs ====
+FINE 2025-04-30 14:40:44.532155: Excluded class com.exampledatabase.EventsQueries$GetEventByEntityIdQuery
+FINE 2025-04-30 14:40:44.533362: Excluded method Example$Companion#<init>
+FINE 2025-04-30 14:40:44.533531: Excluded method Example#<clinit>
+FINE 2025-04-30 14:40:44.533759: Excluded method Document#createExampleDocument
+FINE 2025-04-30 14:40:44.533815: Excluded field Document#context
+FINE 2025-04-30 14:40:44.533834: Excluded field Document#fileName
+FINE 2025-04-30 14:40:44.533848: Excluded field Document#fileSize
+FINE 2025-04-30 14:40:44.533862: Excluded field Document#lastModified
+FINE 2025-04-30 14:40:44.533875: Excluded field Document#mimeType
+FINE 2025-04-30 14:40:44.533889: Excluded field Document#filePath
+FINE 2025-04-30 14:40:44.533911: Excluded field com.example.database.DatabaseJniHelper#context
+FINE 2025-04-30 14:40:44.533927: Excluded field com.example.database.DatabaseJniHelper#driverFactory
+FINE 2025-04-30 14:40:44.533940: Excluded field com.example.database.DatabaseJniHelper#driver
+FINE 2025-04-30 14:40:44.534059: Excluded field com.example.database.DatabaseJniHelper#database
+FINE 2025-04-30 14:40:44.534082: Excluded field com.example.database.DatabaseJniHelper#eventsQueries
+FINE 2025-04-30 14:40:44.534101: Excluded method com.example.database.Database$Companion#<init>
+FINE 2025-04-30 14:40:44.534117: Excluded method com.example.database.Database$Companion#<clinit>
+FINE 2025-04-30 14:40:44.534134: Excluded method com.example.database.Database#<clinit>
+FINE 2025-04-30 14:40:44.534160: Excluded field com.exampledatabase.Events#id
+FINE 2025-04-30 14:40:44.534178: Excluded field com.exampledatabase.Events#entity_id
+FINE 2025-04-30 14:40:44.534190: Excluded field com.exampledatabase.Events#attribute
+FINE 2025-04-30 14:40:44.534202: Excluded field com.exampledatabase.Events#value_
+FINE 2025-04-30 14:40:44.534214: Excluded field com.exampledatabase.Events#timestamp
+FINE 2025-04-30 14:40:44.534229: Excluded method app.cash.sqldelight.Query#<init>
+FINE 2025-04-30 14:40:44.534244: Excluded method app.cash.sqldelight.TransacterImpl#<init>
+FINE 2025-04-30 14:40:44.534258: Excluded method app.cash.sqldelight.TransacterImpl#transactionWithWrapper
+WARNING 2025-04-30 14:40:44.534350: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#await-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534541: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#getValue-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534558: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#toString-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534573: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#hashCode-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534588: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#equals-impl: the name is not a valid Dart identifer
+FINE 2025-04-30 14:40:44.534604: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#<init>
+WARNING 2025-04-30 14:40:44.534617: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#constructor-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534632: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#box-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534656: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#unbox-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534671: Excluded method app.cash.sqldelight.db.QueryResult$AsyncValue#equals-impl0: the name is not a valid Dart identifer
+FINE 2025-04-30 14:40:44.534703: Excluded field app.cash.sqldelight.db.QueryResult$AsyncValue#getter
+FINE 2025-04-30 14:40:44.534718: Excluded method app.cash.sqldelight.db.QueryResult$Companion#<init>
+WARNING 2025-04-30 14:40:44.534732: Excluded method app.cash.sqldelight.db.QueryResult$Companion#getUnit-mlR-ZEE: the name is not a valid Dart identifer
+FINE 2025-04-30 14:40:44.534746: Excluded method app.cash.sqldelight.db.QueryResult$Companion#<clinit>
+FINE 2025-04-30 14:40:44.534761: Excluded field app.cash.sqldelight.db.QueryResult$Companion#Unit
+WARNING 2025-04-30 14:40:44.534777: Excluded method app.cash.sqldelight.db.QueryResult$Value#await-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534793: Excluded method app.cash.sqldelight.db.QueryResult$Value#toString-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534808: Excluded method app.cash.sqldelight.db.QueryResult$Value#hashCode-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534823: Excluded method app.cash.sqldelight.db.QueryResult$Value#equals-impl: the name is not a valid Dart identifer
+FINE 2025-04-30 14:40:44.534838: Excluded method app.cash.sqldelight.db.QueryResult$Value#<init>
+WARNING 2025-04-30 14:40:44.534851: Excluded method app.cash.sqldelight.db.QueryResult$Value#constructor-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534866: Excluded method app.cash.sqldelight.db.QueryResult$Value#box-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534880: Excluded method app.cash.sqldelight.db.QueryResult$Value#unbox-impl: the name is not a valid Dart identifer
+WARNING 2025-04-30 14:40:44.534895: Excluded method app.cash.sqldelight.db.QueryResult$Value#equals-impl0: the name is not a valid Dart identifer
+FINE 2025-04-30 14:40:44.534923: Excluded field app.cash.sqldelight.db.QueryResult$Value#value
+FINE 2025-04-30 14:40:44.534939: Excluded method app.cash.sqldelight.db.QueryResult#<clinit>
+FINEST 2025-04-30 14:40:44.542722: Parsing yaml file in url file:///Users/vania/.pub-cache/hosted/pub.dev/jni-0.14.1/lib/jni_symbols.yaml.
+FINEST 2025-04-30 14:40:44.550464: Imported java.lang.Object successfully.
+FINEST 2025-04-30 14:40:44.550517: Imported java.lang.String successfully.
+FINEST 2025-04-30 14:40:44.550531: Imported java.lang.Number successfully.
+FINEST 2025-04-30 14:40:44.550544: Imported java.lang.Byte successfully.
+FINEST 2025-04-30 14:40:44.550556: Imported java.lang.Short successfully.
+FINEST 2025-04-30 14:40:44.550567: Imported java.lang.Integer successfully.
+FINEST 2025-04-30 14:40:44.550579: Imported java.lang.Long successfully.
+FINEST 2025-04-30 14:40:44.550594: Imported java.lang.Float successfully.
+FINEST 2025-04-30 14:40:44.550606: Imported java.lang.Double successfully.
+FINEST 2025-04-30 14:40:44.550631: Imported java.lang.Boolean successfully.
+FINEST 2025-04-30 14:40:44.550644: Imported java.lang.Character successfully.
+FINEST 2025-04-30 14:40:44.550656: Imported java.util.Set successfully.
+FINEST 2025-04-30 14:40:44.550679: Imported java.util.List successfully.
+FINEST 2025-04-30 14:40:44.550691: Imported java.util.Iterator successfully.
+FINEST 2025-04-30 14:40:44.550703: Imported java.util.Map successfully.
+FINEST 2025-04-30 14:40:44.550715: Imported java.nio.Buffer successfully.
+FINEST 2025-04-30 14:40:44.550727: Imported java.nio.ByteBuffer successfully.
+FINEST 2025-04-30 14:40:44.551357: Linking Example$Companion.
+FINEST 2025-04-30 14:40:44.551414: Linking Example.
+FINEST 2025-04-30 14:40:44.553309: Linking Document.
+FINEST 2025-04-30 14:40:44.553356: Linking com.example.database.DatabaseJniHelper.
+FINEST 2025-04-30 14:40:44.553404: Linking com.example.database.Database$Companion.
+FINEST 2025-04-30 14:40:44.553418: Linking com.example.database.Database.
+FINEST 2025-04-30 14:40:44.553575: Linking com.exampledatabase.EventsQueries.
+FINEST 2025-04-30 14:40:44.553590: Linking app.cash.sqldelight.TransacterImpl.
+FINEST 2025-04-30 14:40:44.553868: Linking com.exampledatabase.Events.
+FINEST 2025-04-30 14:40:44.554029: Linking app.cash.sqldelight.Query$Listener.
+FINEST 2025-04-30 14:40:44.554045: Linking app.cash.sqldelight.Query.
+FINEST 2025-04-30 14:40:44.554095: Linking app.cash.sqldelight.db.QueryResult$AsyncValue.
+FINEST 2025-04-30 14:40:44.554109: Linking app.cash.sqldelight.db.QueryResult.
+FINEST 2025-04-30 14:40:44.555741: Linking app.cash.sqldelight.db.QueryResult$Companion.
+FINEST 2025-04-30 14:40:44.555779: Linking app.cash.sqldelight.db.QueryResult$DefaultImpls.
+FINEST 2025-04-30 14:40:44.555820: Linking app.cash.sqldelight.db.QueryResult$Value.
+FINEST 2025-04-30 14:40:44.555915: Linking app.cash.sqldelight.db.SqlCursor.
+FINEST 2025-04-30 14:40:44.556063: Linking app.cash.sqldelight.db.SqlDriver$DefaultImpls.
+FINEST 2025-04-30 14:40:44.556080: Linking app.cash.sqldelight.db.SqlDriver.
+FINEST 2025-04-30 14:40:44.556755: Renaming Example$Companion.
+FINEST 2025-04-30 14:40:44.556996: Renaming Example.
+FINE 2025-04-30 14:40:44.557286: Class Example is named Example
+FINE 2025-04-30 14:40:44.557508: Field Example#Companion is named Companion
+FINE 2025-04-30 14:40:44.557527: Field Example#ERROR_MESSAGE is named ERROR_MESSAGE
+FINE 2025-04-30 14:40:44.557792: Method Example#<init> is named new$
+FINE 2025-04-30 14:40:44.557854: Method Example#thinkBeforeAnswering is named thinkBeforeAnswering
+FINE 2025-04-30 14:40:44.557924: Method Example#aloha is named aloha
+FINE 2025-04-30 14:40:44.557939: Method Example#throwError is named throwError
+FINE 2025-04-30 14:40:44.557957: Class Example$Companion is named Example$Companion
+FINE 2025-04-30 14:40:44.557974: Method Example$Companion#<init> is named new$
+FINEST 2025-04-30 14:40:44.557988: Renaming Document.
+FINE 2025-04-30 14:40:44.558008: Class Document is named Document
+FINE 2025-04-30 14:40:44.558025: Method Document#<init> is named new$
+FINE 2025-04-30 14:40:44.558039: Method Document#getMetadata is named getMetadata
+FINE 2025-04-30 14:40:44.558053: Method Document#getContent is named getContent
+FINEST 2025-04-30 14:40:44.558065: Renaming com.example.database.DatabaseJniHelper.
+FINE 2025-04-30 14:40:44.558086: Class com.example.database.DatabaseJniHelper is named DatabaseJniHelper
+FINE 2025-04-30 14:40:44.558103: Method com.example.database.DatabaseJniHelper#<init> is named new$
+FINE 2025-04-30 14:40:44.558117: Method com.example.database.DatabaseJniHelper#getEventsQueries is named getEventsQueries
+FINE 2025-04-30 14:40:44.558132: Method com.example.database.DatabaseJniHelper#benchmarkEventInserts is named benchmarkEventInserts
+FINE 2025-04-30 14:40:44.558147: Method com.example.database.DatabaseJniHelper#benchmarkEventSelects is named benchmarkEventSelects
+FINE 2025-04-30 14:40:44.558164: Method com.example.database.DatabaseJniHelper#benchmarkEventInsertsAndSelects is named benchmarkEventInsertsAndSelects
+FINE 2025-04-30 14:40:44.558180: Method com.example.database.DatabaseJniHelper#close is named close
+FINEST 2025-04-30 14:40:44.558192: Renaming com.example.database.Database$Companion.
+FINEST 2025-04-30 14:40:44.558208: Renaming com.example.database.Database.
+FINE 2025-04-30 14:40:44.558237: Class com.example.database.Database is named Database
+FINE 2025-04-30 14:40:44.558283: Field com.example.database.Database#Companion is named Companion
+FINE 2025-04-30 14:40:44.558315: Method com.example.database.Database#getEventsQueries is named getEventsQueries
+FINE 2025-04-30 14:40:44.558333: Class com.example.database.Database$Companion is named Database$Companion
+FINE 2025-04-30 14:40:44.558351: Method com.example.database.Database$Companion#getSchema is named getSchema
+FINE 2025-04-30 14:40:44.558378: Method com.example.database.Database$Companion#invoke is named invoke
+FINEST 2025-04-30 14:40:44.558392: Renaming com.exampledatabase.EventsQueries.
+FINEST 2025-04-30 14:40:44.558409: Renaming app.cash.sqldelight.TransacterImpl.
+FINE 2025-04-30 14:40:44.558427: Class app.cash.sqldelight.TransacterImpl is named TransacterImpl
+FINE 2025-04-30 14:40:44.558446: Method app.cash.sqldelight.TransacterImpl#transaction is named transaction
+FINE 2025-04-30 14:40:44.558497: Method app.cash.sqldelight.TransacterImpl#transactionWithResult is named transactionWithResult
+FINE 2025-04-30 14:40:44.558520: Class com.exampledatabase.EventsQueries is named EventsQueries
+FINE 2025-04-30 14:40:44.558536: Method com.exampledatabase.EventsQueries#<init> is named new$
+FINE 2025-04-30 14:40:44.558550: Method com.exampledatabase.EventsQueries#getEvents is named getEvents
+FINE 2025-04-30 14:40:44.558574: Method com.exampledatabase.EventsQueries#getEvents is named getEvents$1
+FINE 2025-04-30 14:40:44.558589: Method com.exampledatabase.EventsQueries#getEventByEntityId is named getEventByEntityId
+FINE 2025-04-30 14:40:44.558605: Method com.exampledatabase.EventsQueries#getEventByEntityId is named getEventByEntityId$1
+FINE 2025-04-30 14:40:44.558619: Method com.exampledatabase.EventsQueries#insertEvent is named insertEvent
+FINE 2025-04-30 14:40:44.558635: Method com.exampledatabase.EventsQueries#resetDatabase is named resetDatabase
+FINEST 2025-04-30 14:40:44.558648: Renaming com.exampledatabase.Events.
+FINE 2025-04-30 14:40:44.558673: Class com.exampledatabase.Events is named Events
+FINE 2025-04-30 14:40:44.558705: Method com.exampledatabase.Events#<init> is named new$
+FINE 2025-04-30 14:40:44.558723: Method com.exampledatabase.Events#getId is named getId
+FINE 2025-04-30 14:40:44.558756: Method com.exampledatabase.Events#getEntity_id is named getEntity_id
+FINE 2025-04-30 14:40:44.558780: Method com.exampledatabase.Events#getAttribute is named getAttribute
+FINE 2025-04-30 14:40:44.558794: Method com.exampledatabase.Events#getValue_ is named getValue_
+FINE 2025-04-30 14:40:44.558807: Method com.exampledatabase.Events#getTimestamp is named getTimestamp
+FINE 2025-04-30 14:40:44.558820: Method com.exampledatabase.Events#component1 is named component1
+FINE 2025-04-30 14:40:44.558833: Method com.exampledatabase.Events#component2 is named component2
+FINE 2025-04-30 14:40:44.558847: Method com.exampledatabase.Events#component3 is named component3
+FINE 2025-04-30 14:40:44.558862: Method com.exampledatabase.Events#component4 is named component4
+FINE 2025-04-30 14:40:44.558875: Method com.exampledatabase.Events#component5 is named component5
+FINE 2025-04-30 14:40:44.558888: Method com.exampledatabase.Events#copy is named copy
+FINE 2025-04-30 14:40:44.558903: Method com.exampledatabase.Events#toString is named toString$1
+FINE 2025-04-30 14:40:44.558916: Method com.exampledatabase.Events#hashCode is named hashCode$1
+FINE 2025-04-30 14:40:44.558929: Method com.exampledatabase.Events#equals is named equals
+FINEST 2025-04-30 14:40:44.558946: Renaming app.cash.sqldelight.Query$Listener.
+FINEST 2025-04-30 14:40:44.558963: Renaming app.cash.sqldelight.Query.
+FINE 2025-04-30 14:40:44.558980: Class app.cash.sqldelight.Query is named Query
+FINE 2025-04-30 14:40:44.558995: Method app.cash.sqldelight.Query#addListener is named addListener
+FINE 2025-04-30 14:40:44.559011: Method app.cash.sqldelight.Query#removeListener is named removeListener
+FINE 2025-04-30 14:40:44.559025: Class app.cash.sqldelight.Query$Listener is named Query$Listener
+FINE 2025-04-30 14:40:44.559039: Method app.cash.sqldelight.Query$Listener#queryResultsChanged is named queryResultsChanged
+FINEST 2025-04-30 14:40:44.559052: Renaming app.cash.sqldelight.db.QueryResult$AsyncValue.
+FINEST 2025-04-30 14:40:44.559067: Renaming app.cash.sqldelight.db.QueryResult.
+FINE 2025-04-30 14:40:44.559087: Class app.cash.sqldelight.db.QueryResult is named QueryResult
+FINE 2025-04-30 14:40:44.559100: Field app.cash.sqldelight.db.QueryResult#Companion is named Companion
+FINE 2025-04-30 14:40:44.559114: Method app.cash.sqldelight.db.QueryResult#getValue is named getValue
+FINE 2025-04-30 14:40:44.559127: Method app.cash.sqldelight.db.QueryResult#await is named await$
+FINE 2025-04-30 14:40:44.559141: Class app.cash.sqldelight.db.QueryResult$AsyncValue is named QueryResult$AsyncValue
+FINE 2025-04-30 14:40:44.559158: Method app.cash.sqldelight.db.QueryResult$AsyncValue#await is named await$
+FINE 2025-04-30 14:40:44.559172: Method app.cash.sqldelight.db.QueryResult$AsyncValue#getValue is named getValue
+FINE 2025-04-30 14:40:44.559185: Method app.cash.sqldelight.db.QueryResult$AsyncValue#toString is named toString$1
+FINE 2025-04-30 14:40:44.559198: Method app.cash.sqldelight.db.QueryResult$AsyncValue#hashCode is named hashCode$1
+FINE 2025-04-30 14:40:44.559211: Method app.cash.sqldelight.db.QueryResult$AsyncValue#equals is named equals
+FINEST 2025-04-30 14:40:44.559225: Renaming app.cash.sqldelight.db.QueryResult$Companion.
+FINE 2025-04-30 14:40:44.559243: Class app.cash.sqldelight.db.QueryResult$Companion is named QueryResult$Companion
+FINEST 2025-04-30 14:40:44.559255: Renaming app.cash.sqldelight.db.QueryResult$DefaultImpls.
+FINE 2025-04-30 14:40:44.559273: Class app.cash.sqldelight.db.QueryResult$DefaultImpls is named QueryResult$DefaultImpls
+FINE 2025-04-30 14:40:44.559289: Method app.cash.sqldelight.db.QueryResult$DefaultImpls#getValue is named getValue
+FINEST 2025-04-30 14:40:44.559302: Renaming app.cash.sqldelight.db.QueryResult$Value.
+FINE 2025-04-30 14:40:44.559326: Class app.cash.sqldelight.db.QueryResult$Value is named QueryResult$Value
+FINE 2025-04-30 14:40:44.559342: Method app.cash.sqldelight.db.QueryResult$Value#getValue is named getValue
+FINE 2025-04-30 14:40:44.559358: Method app.cash.sqldelight.db.QueryResult$Value#await is named await$
+FINE 2025-04-30 14:40:44.559372: Method app.cash.sqldelight.db.QueryResult$Value#toString is named toString$1
+FINE 2025-04-30 14:40:44.559385: Method app.cash.sqldelight.db.QueryResult$Value#hashCode is named hashCode$1
+FINE 2025-04-30 14:40:44.559399: Method app.cash.sqldelight.db.QueryResult$Value#equals is named equals
+FINEST 2025-04-30 14:40:44.559411: Renaming app.cash.sqldelight.db.SqlCursor.
+FINE 2025-04-30 14:40:44.559438: Class app.cash.sqldelight.db.SqlCursor is named SqlCursor
+FINE 2025-04-30 14:40:44.559452: Method app.cash.sqldelight.db.SqlCursor#next is named next
+FINE 2025-04-30 14:40:44.559465: Method app.cash.sqldelight.db.SqlCursor#getString is named getString
+FINE 2025-04-30 14:40:44.559479: Method app.cash.sqldelight.db.SqlCursor#getLong is named getLong
+FINE 2025-04-30 14:40:44.559493: Method app.cash.sqldelight.db.SqlCursor#getBytes is named getBytes
+FINE 2025-04-30 14:40:44.559512: Method app.cash.sqldelight.db.SqlCursor#getDouble is named getDouble
+FINE 2025-04-30 14:40:44.559526: Method app.cash.sqldelight.db.SqlCursor#getBoolean is named getBoolean
+FINEST 2025-04-30 14:40:44.559539: Renaming app.cash.sqldelight.db.SqlDriver$DefaultImpls.
+FINEST 2025-04-30 14:40:44.559554: Renaming app.cash.sqldelight.db.SqlDriver.
+FINE 2025-04-30 14:40:44.559572: Class app.cash.sqldelight.db.SqlDriver is named SqlDriver
+FINE 2025-04-30 14:40:44.559592: Method app.cash.sqldelight.db.SqlDriver#executeQuery is named executeQuery
+FINE 2025-04-30 14:40:44.559608: Method app.cash.sqldelight.db.SqlDriver#execute is named execute
+FINE 2025-04-30 14:40:44.559622: Method app.cash.sqldelight.db.SqlDriver#newTransaction is named newTransaction
+FINE 2025-04-30 14:40:44.559636: Method app.cash.sqldelight.db.SqlDriver#currentTransaction is named currentTransaction
+FINE 2025-04-30 14:40:44.559650: Method app.cash.sqldelight.db.SqlDriver#addListener is named addListener
+FINE 2025-04-30 14:40:44.559669: Method app.cash.sqldelight.db.SqlDriver#removeListener is named removeListener
+FINE 2025-04-30 14:40:44.559683: Method app.cash.sqldelight.db.SqlDriver#notifyListeners is named notifyListeners
+FINE 2025-04-30 14:40:44.559697: Class app.cash.sqldelight.db.SqlDriver$DefaultImpls is named SqlDriver$DefaultImpls
+INFO 2025-04-30 14:40:44.560776: Generating bindings
+FINEST 2025-04-30 14:40:44.567166: Generated bindings for class Example$Companion
+FINEST 2025-04-30 14:40:44.568790: Generated bindings for class Example
+FINEST 2025-04-30 14:40:44.568980: Generated bindings for class Document
+FINEST 2025-04-30 14:40:44.569390: Generated bindings for class com.example.database.DatabaseJniHelper
+FINEST 2025-04-30 14:40:44.569523: Generated bindings for class com.example.database.Database$Companion
+FINEST 2025-04-30 14:40:44.570566: Generated bindings for class com.example.database.Database
+FINEST 2025-04-30 14:40:44.571404: Generated bindings for class com.exampledatabase.EventsQueries
+FINEST 2025-04-30 14:40:44.571909: Generated bindings for class com.exampledatabase.Events
+FINEST 2025-04-30 14:40:44.572126: Generated bindings for class app.cash.sqldelight.Query$Listener
+FINEST 2025-04-30 14:40:44.572572: Generated bindings for class app.cash.sqldelight.Query
+FINEST 2025-04-30 14:40:44.572745: Generated bindings for class app.cash.sqldelight.TransacterImpl
+FINEST 2025-04-30 14:40:44.573005: Generated bindings for class app.cash.sqldelight.db.QueryResult$AsyncValue
+FINEST 2025-04-30 14:40:44.573065: Generated bindings for class app.cash.sqldelight.db.QueryResult$Companion
+FINEST 2025-04-30 14:40:44.574018: Generated bindings for class app.cash.sqldelight.db.QueryResult$DefaultImpls
+FINEST 2025-04-30 14:40:44.574227: Generated bindings for class app.cash.sqldelight.db.QueryResult$Value
+FINEST 2025-04-30 14:40:44.574759: Generated bindings for class app.cash.sqldelight.db.QueryResult
+FINEST 2025-04-30 14:40:44.575457: Generated bindings for class app.cash.sqldelight.db.SqlCursor
+FINEST 2025-04-30 14:40:44.575526: Generated bindings for class app.cash.sqldelight.db.SqlDriver$DefaultImpls
+FINEST 2025-04-30 14:40:44.576594: Generated bindings for class app.cash.sqldelight.db.SqlDriver
+INFO 2025-04-30 14:40:44.609850: Running dart format...
+INFO 2025-04-30 14:40:45.480002: Completed

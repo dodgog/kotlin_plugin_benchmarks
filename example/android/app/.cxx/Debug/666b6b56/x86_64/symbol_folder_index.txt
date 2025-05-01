@@ -1,0 +1,1 @@
+/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/cxx/Debug/666b6b56/obj/x86_64
