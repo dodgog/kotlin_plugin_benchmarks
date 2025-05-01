@@ -1,8 +1,8 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name=":@@:kotlin_plugin::release"
       project=":kotlin_plugin"/>
@@ -10,6 +10,10 @@
       name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20@jar"
       jars="/Users/vania/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.20/3aa51faf20aae8b31e1a4bc54f8370673d7b7df4/kotlin-stdlib-jdk7-1.8.20.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20"/>
+  <library
+      name="app.cash.sqldelight:runtime-jvm:2.0.2@jar"
+      jars="/Users/vania/.gradle/caches/modules-2/files-2.1/app.cash.sqldelight/runtime-jvm/2.0.2/187de9631fe1fb647b0d5c0b6805c9ae92ed04c4/runtime-jvm-2.0.2.jar"
+      resolved="app.cash.sqldelight:runtime-jvm:2.0.2"/>
   <library
       name=":@@:jni::release"
       project=":jni"/>
@@ -239,10 +243,6 @@
       symbolFile="R.txt"
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
-  <library
-      name="app.cash.sqldelight:runtime-jvm:2.0.2@jar"
-      jars="/Users/vania/.gradle/caches/modules-2/files-2.1/app.cash.sqldelight/runtime-jvm/2.0.2/187de9631fe1fb647b0d5c0b6805c9ae92ed04c4/runtime-jvm-2.0.2.jar"
-      resolved="app.cash.sqldelight:runtime-jvm:2.0.2"/>
   <library
       name="androidx.annotation:annotation-experimental:1.4.0@aar"
       jars="/Users/vania/.gradle/caches/transforms-4/a4a9d91c7137a4661739266066761798/transformed/jetified-annotation-experimental-1.4.0/jars/classes.jar"

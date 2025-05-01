@@ -380,25 +380,6 @@
                     }
                 },
                 {
-                    "source": "/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "155,159",
-                        "startColumns": "4,4",
-                        "startOffsets": "7894,8075",
-                        "endLines": "158,161",
-                        "endColumns": "12,12",
-                        "endOffsets": "8070,8239"
-                    }
-                },
-                {
                     "source": "/Users/vania/.gradle/caches/transforms-4/bdfca45116fab122f661f85cf7e3e0e5/transformed/lifecycle-viewmodel-2.7.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -432,6 +413,25 @@
                         "endLines": "2,8,16,24,37,43,49,50,51,52,53,54,118,180,185,311,326,342",
                         "endColumns": "58,11,11,11,11,11,11,52,59,51,44,38,59,24,24,24,24,24",
                         "endOffsets": "109,282,501,720,1094,1282,1469,1522,1582,1634,1679,1718,5790,9331,9489,13855,14469,15123"
+                    }
+                },
+                {
+                    "source": "/Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "155,159",
+                        "startColumns": "4,4",
+                        "startOffsets": "7894,8075",
+                        "endLines": "158,161",
+                        "endColumns": "12,12",
+                        "endOffsets": "8070,8239"
                     }
                 }
             ]
@@ -515,7 +515,7 @@
             "outputFile": "com.example.kotlin_plugin.example.app-release-29:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

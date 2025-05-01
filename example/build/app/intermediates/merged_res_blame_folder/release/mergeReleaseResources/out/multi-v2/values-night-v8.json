@@ -4,7 +4,7 @@
             "outputFile": "com.example.kotlin_plugin.example.app-mergeReleaseResources-26:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

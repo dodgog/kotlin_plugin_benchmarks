@@ -39,6 +39,7 @@ android {
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
+        main.java.srcDirs += '../../build/kotlin_plugin/generated/sqldelight/code/Database/release/'
     }
 
     defaultConfig {
@@ -59,6 +60,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+}
+
+dependencies {
+    // Explicit dependency on the kotlin_plugin module
+    implementation project(':kotlin_plugin')
 }
 
 flutter {

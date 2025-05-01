@@ -25,6 +25,7 @@ android {
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
+//        main.java.srcDirs += '../example/build/kotlin_plugin/generated/sqldelight/code/Database/release/'
     }
 
     compileOptions {

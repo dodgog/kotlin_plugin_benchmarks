@@ -1,0 +1,1 @@
+/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/app/intermediates/cxx/RelWithDebInfo/s732u203/obj/x86

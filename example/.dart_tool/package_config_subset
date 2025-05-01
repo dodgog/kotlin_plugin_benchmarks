@@ -354,14 +354,6 @@ yaml
 3.4
 file:///Users/vania/.pub-cache/hosted/pub.dev/yaml-3.1.3/
 file:///Users/vania/.pub-cache/hosted/pub.dev/yaml-3.1.3/lib/
-kotlin_plugin
-3.3
-file:///Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/
-file:///Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/lib/
-example
-3.3
-file:///Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/
-file:///Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/lib/
 sky_engine
 3.7
 file:///Users/vania/data/dev/installs/flutter/bin/cache/pkg/sky_engine/
@@ -374,4 +366,12 @@ flutter_test
 3.7
 file:///Users/vania/data/dev/installs/flutter/packages/flutter_test/
 file:///Users/vania/data/dev/installs/flutter/packages/flutter_test/lib/
+kotlin_plugin
+3.3
+file:///Users/vania/data/dev/kotlin_plugin_benchmarks/
+file:///Users/vania/data/dev/kotlin_plugin_benchmarks/lib/
+example
+3.3
+file:///Users/vania/data/dev/kotlin_plugin_benchmarks/example/
+file:///Users/vania/data/dev/kotlin_plugin_benchmarks/example/lib/
 2

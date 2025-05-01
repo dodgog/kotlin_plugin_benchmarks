@@ -3,16 +3,16 @@
     package="com.example.kotlin_plugin"
     minSdkVersion="16"
     targetSdkVersion="16"
-    mergedManifest="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
-    manifestMergeReport="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
-    partialResultsDir="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+    mergedManifest="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
+    partialResultsDir="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
     <sourceProvider
         manifests="src/main/AndroidManifest.xml"
-        javaDirectories="src/main/java:src/main/kotlin:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/generated/sqldelight/code/Database/release/com/example/database:src/release/java:src/release/kotlin"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
         resDirectories="src/main/res:src/release/res"
         assetsDirectories="src/main/assets:src/release/assets"/>
   </sourceProviders>
@@ -21,11 +21,11 @@
   <testFixturesSourceProviders>
   </testFixturesSourceProviders>
   <artifact
-      classOutputs="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/tmp/kotlin-classes/release:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      classOutputs="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/tmp/kotlin-classes/release:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
       type="MAIN"
       applicationId="com.example.kotlin_plugin"
-      generatedSourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/generated/sqldelight/code/Database/release:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/generated/res/resValues/release"
+      generatedSourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/generated/sqldelight/code/Database/release:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/generated/res/resValues/release"
       desugaredMethodsFiles="/Users/vania/.gradle/caches/transforms-4/30a66d005c468145900ecef6afc27180/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

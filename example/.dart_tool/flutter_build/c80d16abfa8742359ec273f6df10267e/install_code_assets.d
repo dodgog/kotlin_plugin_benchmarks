@@ -1,1 +1,0 @@
- /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/.dart_tool/flutter_build/c80d16abfa8742359ec273f6df10267e/native_assets.json: 

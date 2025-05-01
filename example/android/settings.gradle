@@ -23,3 +23,6 @@ plugins {
 }
 
 include ":app"
+// Explicit inclusion of the kotlin_plugin module
+include ":kotlin_plugin"
+project(':kotlin_plugin').projectDir = new File(rootDir, '../../android')

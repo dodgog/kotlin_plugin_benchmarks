@@ -20,8 +20,8 @@ eu.simonbinder.sqlite3_flutter_libs-core-1.13.1-18 /Users/vania/.gradle/caches/t
 eu.simonbinder.sqlite3_flutter_libs-fragment-1.7.1-19 /Users/vania/.gradle/caches/transforms-4/f0dcfcf6d4477ae672d9f92b33218b0f/transformed/fragment-1.7.1/res
 eu.simonbinder.sqlite3_flutter_libs-main-20 /Users/vania/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.32/android/src/main/res
 eu.simonbinder.sqlite3_flutter_libs-release-21 /Users/vania/.pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.32/android/src/release/res
-eu.simonbinder.sqlite3_flutter_libs-pngs-22 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/generated/res/pngs/release
-eu.simonbinder.sqlite3_flutter_libs-resValues-23 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/generated/res/resValues/release
-eu.simonbinder.sqlite3_flutter_libs-mergeReleaseResources-24 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/incremental/release/mergeReleaseResources/merged.dir
-eu.simonbinder.sqlite3_flutter_libs-mergeReleaseResources-25 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-eu.simonbinder.sqlite3_flutter_libs-release-26 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/merged_res/release/mergeReleaseResources
+eu.simonbinder.sqlite3_flutter_libs-pngs-22 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/generated/res/pngs/release
+eu.simonbinder.sqlite3_flutter_libs-resValues-23 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/generated/res/resValues/release
+eu.simonbinder.sqlite3_flutter_libs-mergeReleaseResources-24 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/incremental/release/mergeReleaseResources/merged.dir
+eu.simonbinder.sqlite3_flutter_libs-mergeReleaseResources-25 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+eu.simonbinder.sqlite3_flutter_libs-release-26 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/merged_res/release/mergeReleaseResources

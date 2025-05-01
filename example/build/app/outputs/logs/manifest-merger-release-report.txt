@@ -1,7 +1,7 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:3:4-33:19
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:3:4-33:19
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:3:4-33:19
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:3:4-33:19
 MERGED from [androidx.window:window:1.2.0] /Users/vania/.gradle/caches/transforms-4/8e892bdec165f285e00430189c5e4803/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] /Users/vania/.gradle/caches/transforms-4/8e892bdec165f285e00430189c5e4803/transformed/jetified-window-1.2.0/AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] /Users/vania/.gradle/caches/transforms-4/ecdb5e34c2b9f03e91d5f1bf70b82044/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
@@ -15,26 +15,28 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vania/.gradle/caches
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vania/.gradle/caches/transforms-4/42f129be4873924fac8e1558d870aede/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vania/.gradle/caches/transforms-4/42f129be4873924fac8e1558d870aede/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/vania/.gradle/caches/transforms-4/ecdb5e34c2b9f03e91d5f1bf70b82044/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:4:9-32
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:4:9-32
 	android:icon
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:6:9-43
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:6:9-43
 	android:name
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:5:9-42
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:5:9-42
 manifest
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from [:kotlin_plugin] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:kotlin_plugin] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [app.cash.sqldelight:android-driver:2.0.2] /Users/vania/.gradle/caches/transforms-4/4ecf387cbbb24f8ffbced3b204f9685d/transformed/jetified-android-driver-2.0.2-release/AndroidManifest.xml:2:1-7:12
-MERGED from [:jni] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:path_provider_android] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
-MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:jni] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/vania/.gradle/caches/transforms-4/f0dcfcf6d4477ae672d9f92b33218b0f/transformed/fragment-1.7.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.window:window:1.2.0] /Users/vania/.gradle/caches/transforms-4/8e892bdec165f285e00430189c5e4803/transformed/jetified-window-1.2.0/AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.window:window-java:1.2.0] /Users/vania/.gradle/caches/transforms-4/93ab3a40d881ce7e4aa1dba8123f4a0b/transformed/jetified-window-java-1.2.0/AndroidManifest.xml:17:1-21:12
@@ -52,8 +54,6 @@ MERGED from [androidx.core:core:1.13.1] /Users/vania/.gradle/caches/transforms-4
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/vania/.gradle/caches/transforms-4/5473159e618a29ff7905d9c436c8005f/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vania/.gradle/caches/transforms-4/16da31919f2271127088c5793abeea48/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vania/.gradle/caches/transforms-4/60c08c6fe334cac7d1ef470859c0a4a8/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vania/.gradle/caches/transforms-4/d15b1fa2e7439560e08bde486fa30760/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vania/.gradle/caches/transforms-4/bb94ddf1db7fdefad326ccd29a93d0fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.2.0] /Users/vania/.gradle/caches/transforms-4/a0b75b805958e92587bb65ecef013109/transformed/jetified-tracing-1.2.0/AndroidManifest.xml:17:1-22:12
@@ -65,66 +65,70 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vania/.gr
 MERGED from [eu.simonbinder:sqlite3-native-library:3.49.1+1] /Users/vania/.gradle/caches/transforms-4/91dfe89f89bcca6e8ce9937507cc6487/transformed/jetified-sqlite3-native-library-3.49.1+1/AndroidManifest.xml:2:1-7:12
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/vania/.gradle/caches/transforms-4/0b6013baf002c170fce8d1d772091ee5/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:2:5-48
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:2:5-48
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:1:11-69
 activity#com.example.kotlin_plugin.example.MainActivity
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:7:9-27:20
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:7:9-27:20
 	android:launchMode
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:10:13-43
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:10:13-43
 	android:hardwareAccelerated
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:13:13-47
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:13:13-47
 	android:windowSoftInputMode
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:14:13-55
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:14:13-55
 	android:exported
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:9:13-36
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:9:13-36
 	android:configChanges
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:12:13-163
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:12:13-163
 	android:theme
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:11:13-47
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:11:13-47
 	android:name
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:8:13-41
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:8:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:19:13-22:17
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:19:13-22:17
 	android:resource
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:21:15-52
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:21:15-52
 	android:name
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:20:15-70
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:20:15-70
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:23:13-26:29
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:23:13-26:29
 action#android.intent.action.MAIN
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:24:17-68
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:24:17-68
 	android:name
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:24:25-66
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:25:27-74
 meta-data#flutterEmbedding
-ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:30:9-32:33
+ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:30:9-32:33
 	android:value
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:32:13-30
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:32:13-30
 	android:name
-		ADDED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml:31:13-44
+		ADDED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml:31:13-44
 uses-sdk
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
-MERGED from [:kotlin_plugin] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:kotlin_plugin] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:kotlin_plugin] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:kotlin_plugin] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [app.cash.sqldelight:android-driver:2.0.2] /Users/vania/.gradle/caches/transforms-4/4ecf387cbbb24f8ffbced3b204f9685d/transformed/jetified-android-driver-2.0.2-release/AndroidManifest.xml:5:5-44
 MERGED from [app.cash.sqldelight:android-driver:2.0.2] /Users/vania/.gradle/caches/transforms-4/4ecf387cbbb24f8ffbced3b204f9685d/transformed/jetified-android-driver-2.0.2-release/AndroidManifest.xml:5:5-44
-MERGED from [:jni] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:jni] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
-MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
+MERGED from [:jni] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:jni] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/path_provider_android/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
+MERGED from [:sqlite3_flutter_libs] /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/vania/.gradle/caches/transforms-4/f0dcfcf6d4477ae672d9f92b33218b0f/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] /Users/vania/.gradle/caches/transforms-4/f0dcfcf6d4477ae672d9f92b33218b0f/transformed/fragment-1.7.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.window:window:1.2.0] /Users/vania/.gradle/caches/transforms-4/8e892bdec165f285e00430189c5e4803/transformed/jetified-window-1.2.0/AndroidManifest.xml:20:5-44
@@ -159,10 +163,6 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vania/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/vania/.gradle/caches/transforms-4/16da31919f2271127088c5793abeea48/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vania/.gradle/caches/transforms-4/60c08c6fe334cac7d1ef470859c0a4a8/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vania/.gradle/caches/transforms-4/60c08c6fe334cac7d1ef470859c0a4a8/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] /Users/vania/.gradle/caches/transforms-4/8e3e851599e8cd0205cc24b2c95975ea/transformed/sqlite-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] /Users/vania/.gradle/caches/transforms-4/b22a82164d4156c97ed244acc8136e93/transformed/sqlite-framework-2.4.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vania/.gradle/caches/transforms-4/d15b1fa2e7439560e08bde486fa30760/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vania/.gradle/caches/transforms-4/d15b1fa2e7439560e08bde486fa30760/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vania/.gradle/caches/transforms-4/bb94ddf1db7fdefad326ccd29a93d0fc/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
@@ -184,9 +184,9 @@ MERGED from [eu.simonbinder:sqlite3-native-library:3.49.1+1] /Users/vania/.gradl
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/vania/.gradle/caches/transforms-4/0b6013baf002c170fce8d1d772091ee5/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] /Users/vania/.gradle/caches/transforms-4/0b6013baf002c170fce8d1d772091ee5/transformed/jetified-relinker-1.4.5/AndroidManifest.xml:5:5-43
 	android:targetSdkVersion
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/src/main/AndroidManifest.xml
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] /Users/vania/.gradle/caches/transforms-4/8e892bdec165f285e00430189c5e4803/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
 	android:required

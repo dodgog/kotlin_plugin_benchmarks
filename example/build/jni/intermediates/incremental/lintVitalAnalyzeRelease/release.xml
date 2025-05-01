@@ -3,10 +3,10 @@
     package="com.github.dart_lang.jni"
     minSdkVersion="21"
     targetSdkVersion="21"
-    mergedManifest="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
-    proguardFiles="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
+    mergedManifest="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
     consumerProguardFiles="consumer-rules.pro"
-    partialResultsDir="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    partialResultsDir="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
     desugaredMethodsFiles="/Users/vania/.gradle/caches/transforms-4/26e44b10ee307e9353669d9385c36bdf/transformed/D8BackportedDesugaredMethods.txt">
   <buildFeatures
       namespacing="REQUIRED"/>
@@ -22,11 +22,11 @@
   <testFixturesSourceProviders>
   </testFixturesSourceProviders>
   <artifact
-      classOutputs="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      classOutputs="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
       type="MAIN"
       applicationId="com.github.dart_lang.jni"
-      generatedSourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/generated/res/resValues/release"
+      generatedSourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/generated/res/resValues/release"
       desugaredMethodsFiles="/Users/vania/.gradle/caches/transforms-4/26e44b10ee307e9353669d9385c36bdf/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>

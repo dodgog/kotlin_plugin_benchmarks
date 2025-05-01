@@ -20,8 +20,8 @@ com.github.dart_lang.jni-core-1.13.1-18 /Users/vania/.gradle/caches/transforms-4
 com.github.dart_lang.jni-fragment-1.7.1-19 /Users/vania/.gradle/caches/transforms-4/f0dcfcf6d4477ae672d9f92b33218b0f/transformed/fragment-1.7.1/res
 com.github.dart_lang.jni-main-20 /Users/vania/.pub-cache/hosted/pub.dev/jni-0.14.1/android/src/main/res
 com.github.dart_lang.jni-release-21 /Users/vania/.pub-cache/hosted/pub.dev/jni-0.14.1/android/src/release/res
-com.github.dart_lang.jni-pngs-22 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/generated/res/pngs/release
-com.github.dart_lang.jni-resValues-23 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/generated/res/resValues/release
-com.github.dart_lang.jni-mergeReleaseResources-24 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/incremental/release/mergeReleaseResources/merged.dir
-com.github.dart_lang.jni-mergeReleaseResources-25 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/incremental/release/mergeReleaseResources/stripped.dir
-com.github.dart_lang.jni-release-26 /Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/jni/intermediates/merged_res/release/mergeReleaseResources
+com.github.dart_lang.jni-pngs-22 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/generated/res/pngs/release
+com.github.dart_lang.jni-resValues-23 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/generated/res/resValues/release
+com.github.dart_lang.jni-mergeReleaseResources-24 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.github.dart_lang.jni-mergeReleaseResources-25 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.github.dart_lang.jni-release-26 /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/merged_res/release/mergeReleaseResources

@@ -22,9 +22,9 @@
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20"/>
   <library
       name=":@@:jni::release"
-      jars="/Users/vania/.gradle/caches/transforms-4/ec09c64430657b3796fd7b791521f172/transformed/out/jars/classes.jar:/Users/vania/.gradle/caches/transforms-4/ec09c64430657b3796fd7b791521f172/transformed/out/jars/libs/R.jar"
+      jars="/Users/vania/.gradle/caches/transforms-4/3603dcc4735427b94dbe0e7b57a9dc40/transformed/out/jars/classes.jar:/Users/vania/.gradle/caches/transforms-4/3603dcc4735427b94dbe0e7b57a9dc40/transformed/out/jars/libs/R.jar"
       resolved="com.github.dart_lang.jni:jni:1.0"
-      folder="/Users/vania/.gradle/caches/transforms-4/ec09c64430657b3796fd7b791521f172/transformed/out"
+      folder="/Users/vania/.gradle/caches/transforms-4/3603dcc4735427b94dbe0e7b57a9dc40/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

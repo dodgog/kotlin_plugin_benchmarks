@@ -3,10 +3,10 @@
     package="eu.simonbinder.sqlite3_flutter_libs"
     minSdkVersion="16"
     targetSdkVersion="16"
-    mergedManifest="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
-    manifestMergeReport="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
-    partialResultsDir="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out">
+    mergedManifest="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/default_proguard_files/global/proguard-android.txt-8.6.0"
+    partialResultsDir="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -21,11 +21,11 @@
   <testFixturesSourceProviders>
   </testFixturesSourceProviders>
   <artifact
-      classOutputs="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      classOutputs="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
       type="MAIN"
       applicationId="eu.simonbinder.sqlite3_flutter_libs"
-      generatedSourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/generated/ap_generated_sources/release/out"
-      generatedResourceFolders="/Users/vania/data/dev/dart-kotlin-plugin/pkgs/jnigen/example/kotlin_plugin/example/build/sqlite3_flutter_libs/generated/res/resValues/release"
+      generatedSourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/sqlite3_flutter_libs/generated/res/resValues/release"
       desugaredMethodsFiles="/Users/vania/.gradle/caches/transforms-4/30a66d005c468145900ecef6afc27180/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>
