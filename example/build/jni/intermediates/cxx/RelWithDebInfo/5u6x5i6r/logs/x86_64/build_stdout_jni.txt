@@ -1,2 +1,2 @@
 ninja: Entering directory `/Users/vania/.pub-cache/hosted/pub.dev/jni-0.14.1/android/.cxx/RelWithDebInfo/5u6x5i6r/x86_64'
-[1/1] Linking C shared library /Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/jni/intermediates/cxx/RelWithDebInfo/5u6x5i6r/obj/x86_64/libdartjni.so
+ninja: no work to do.

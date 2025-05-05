@@ -1,0 +1,1 @@
+ /Users/vania/data/dev/kotlin_plugin_benchmarks/example/.dart_tool/flutter_build/942b161657b412807c0d3c0c2fdadf41/native_assets.json: 

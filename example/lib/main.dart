@@ -13,7 +13,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   final database = AppDatabase();
-  await optimizeDatabaseSettings(database);
+  // await optimizeDatabaseSettings(database);
   await database.resetDatabase();
   runApp(MyApp(database));
 }
@@ -98,7 +98,8 @@ class _MyHomePageState extends State<MyHomePage> {
     // First insert countOfEntities events without timing
     for (int i = 0; i < countOfEntities; i++) {
       delightQueries.insertEvent(
-        const Uuid().v4().toJString(),
+        // const Uuid().v4().toJString(),
+        math.Random().nextInt(1000000000).toString().toJString(),
         entityIds[math.Random().nextInt(entityIds.length)].toJString(),
         'test_attr'.toJString(),
         'test_value'.toJString(),
@@ -111,7 +112,8 @@ class _MyHomePageState extends State<MyHomePage> {
     for (int i = 0; i < trials; i++) {
       final stopwatch = Stopwatch()..start();
       delightQueries.insertEvent(
-        const Uuid().v4().toJString(),
+        math.Random().nextInt(1000000000).toString().toJString(),
+        // const Uuid().v4().toJString(),
         entityIds[math.Random().nextInt(entityIds.length)].toJString(),
         'test_attr'.toJString(),
         'test_value'.toJString(),
@@ -163,7 +165,8 @@ class _MyHomePageState extends State<MyHomePage> {
     // First insert countOfEntities events without timing
     for (int i = 0; i < countOfEntities; i++) {
       await widget.database.insertEvent(
-        const Uuid().v4(),
+        // const Uuid().v4(),
+        math.Random().nextInt(1000000000).toString(),
         entityIds[math.Random().nextInt(entityIds.length)],
         'test_attr',
         'test_value',
@@ -176,7 +179,8 @@ class _MyHomePageState extends State<MyHomePage> {
     for (int i = 0; i < trials; i++) {
       final stopwatch = Stopwatch()..start();
       await widget.database.insertEvent(
-        const Uuid().v4(),
+        // const Uuid().v4(),
+        math.Random().nextInt(1000000000).toString(),
         entityIds[math.Random().nextInt(entityIds.length)],
         'test_attr',
         'test_value',
@@ -223,7 +227,8 @@ class _MyHomePageState extends State<MyHomePage> {
     await widget.database.transaction(() async {
       for (int i = 0; i < countOfEntities; i++) {
         await widget.database.insertEvent(
-          const Uuid().v4(),
+          // const Uuid().v4(),
+          math.Random().nextInt(1000000000).toString(),
           entityIds[math.Random().nextInt(entityIds.length)],
           'test_attr',
           'test_value',
@@ -237,7 +242,8 @@ class _MyHomePageState extends State<MyHomePage> {
     await widget.database.transaction(() async {
       for (int i = 0; i < trials; i++) {
         await widget.database.insertEvent(
-          const Uuid().v4(),
+          // const Uuid().v4(),
+          math.Random().nextInt(1000000000).toString(),
           entityIds[math.Random().nextInt(entityIds.length)],
           'test_attr',
           'test_value',

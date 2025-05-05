@@ -36,6 +36,17 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+    
+    buildTypes {
+        release {
+        }
+        debug {
+        }
+        profile {
+            initWith debug
+            matchingFallbacks = ['debug']
+        }
+    }
 }
 
 

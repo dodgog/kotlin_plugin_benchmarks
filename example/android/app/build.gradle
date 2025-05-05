@@ -39,7 +39,7 @@ android {
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
-        main.java.srcDirs += '../../build/kotlin_plugin/generated/sqldelight/code/Database/release/'
+//        main.java.srcDirs += '../../build/kotlin_plugin/generated/sqldelight/code/Database/release/'
     }
 
     defaultConfig {

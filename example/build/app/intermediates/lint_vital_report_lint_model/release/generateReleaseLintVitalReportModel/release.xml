@@ -13,7 +13,7 @@
   <sourceProviders>
     <sourceProvider
         manifests="src/main/AndroidManifest.xml"
-        javaDirectories="src/main/java:src/main/kotlin:/Users/vania/data/dev/kotlin_plugin_benchmarks/example/build/kotlin_plugin/generated/sqldelight/code/Database/release:src/release/java:src/release/kotlin"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
         resDirectories="src/main/res:src/release/res"
         assetsDirectories="src/main/assets:src/release/assets"/>
   </sourceProviders>

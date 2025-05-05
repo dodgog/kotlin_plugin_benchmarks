@@ -1,0 +1,2 @@
+/Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/.cxx/Debug/1s3v5ym4/x86_64/CMakeFiles/edit_cache.dir
+/Users/vania/data/dev/kotlin_plugin_benchmarks/example/android/app/.cxx/Debug/1s3v5ym4/x86_64/CMakeFiles/rebuild_cache.dir
